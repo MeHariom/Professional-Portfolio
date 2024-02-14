@@ -1,5 +1,5 @@
 
-# Awesome PortFolio
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Awesome+Portfolio)](https://git.io/typing-svg)
 ## Deployment
 
 How To Run this project 
